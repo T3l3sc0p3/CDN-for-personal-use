@@ -1,2 +1,3 @@
-# CDN-for-personal-use
-Just use Github as a CDN
+# Just Mirai Kuriyama collection
+
+I love Mirai <3
